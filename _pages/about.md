@@ -13,4 +13,4 @@ I'm a master student from [School of Engineering and Design](https://www.ed.tum.
 I received my bachelor’s degree in Mechanical Design, Manufacturing and Automation from [Tongji University](https://www.tongji.edu.cn/).
 
 My major is Mechatronics and Robotics. My research interests include Robot perception, Agents and embodied AI
-You can find my CV here: [Zijian's Curriculum Vitae](../uploads/Curriculum_Vitae.pdf).[Email](mailto:zijian.ma@tum.de) / [Github](https://github.com/zijianma17)
+You can find my latest [Resumé](../uploads/CV_zijian.pdf)
